@@ -3,7 +3,7 @@
  */
 //% weight=100 color=#1eadf8 icon="\uf1d8" block="NB-IoT"
 namespace nbiot {
-    const DEBUG = false
+    const DEBUG = true
     const enum NbiotEvents {
         ID = 7107,
         RX_END = 0,
